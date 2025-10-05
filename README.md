@@ -19,7 +19,9 @@ Designed and developed by **Rakibul Islam (Rakib9255)** 💻
 🔗 [Click here to view the calculator](https://rakib9255.github.io/calculator-app)
 
 ## 📸 Screenshot
+![Calculator Screenshot] ![Calculator Screenshot](screenshot.png)
 ![Calculator Screenshot](https://via.placeholder.com/600x400?text=Modern+Calculator)
+
 
 ## 💡 Author
 Created by **Rakibul Islam (Rakib9255)**  
